@@ -5,4 +5,6 @@ The script will ask you to specify the path to the folder containing images you 
 
 A copy of your image will be created and the suffix _tiny will be appended to the image name. This makes it non-destructive and you (and the script) can easily identify which images have already been processed.
 
+Made with AI.
+
 ![The script in action](screenshot.png)
